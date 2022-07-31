@@ -16,7 +16,7 @@ In this project i have created a Food Restaurant Homepage from scratch. And i ha
 
 ### My Project is looking like :
 
-![Web Site Image](./Assets/screencapture-food-restaurant-home-page-netlify-app-2022-07-31-19_35_10.png)
+![Web Site Image](./assets/screencapture-food-restaurant-home-page-netlify-app-2022-07-31-19_35_10.png)
 
 ### You can Check it Live on Below Link :
 
